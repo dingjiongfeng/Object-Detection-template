@@ -1,0 +1,6 @@
+data/*
+data/VOC2012
+*.pyc
+*.pth.tar
+*/__pycache__
+test.py
